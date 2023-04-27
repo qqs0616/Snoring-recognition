@@ -2,7 +2,7 @@
 
 ### 1. Code:
 
-Project -> 
+Project -> Snoring_recognition_Project_model
 
 ### 2. Final Report:
 

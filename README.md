@@ -8,7 +8,7 @@ Project ->
 
 Report -> README.md
 
-### 3. Demo
+### 3. Demo：
 
 https://studio.edgeimpulse.com/public/184526/latest
 
